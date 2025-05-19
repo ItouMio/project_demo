@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+@font-face {
+    font-family: 'fontA';
+    src: url(./assets/fonts/PF频凡胡涂体.ttf)
+}
+
+@font-face {
+    font-family: 'fontB';
+    src: url(./assets/fonts/NaikaiFont-Bold-2.ttf);
+}
